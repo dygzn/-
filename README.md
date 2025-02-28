@@ -1,2 +1,3 @@
+python3.8
 要装selenium，ddddocr
 要在python同路径文件夹下装一个Edge浏览器对应版本的驱动
